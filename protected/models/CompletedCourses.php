@@ -61,7 +61,7 @@ class CompletedCourses extends CActiveRecord
 			'userID' => 'User',
 			'courseID' => 'Course',
 			'Grade' => 'Grade',
-			'GPA' => 'Gpa',
+			'GPA' => 'GPA',
 		);
 	}
 
